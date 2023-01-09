@@ -28,8 +28,8 @@ int main() {
 
     int aSingleRandomNumber = 0;
     int average = 0;
-    const int rows = 1;
-    const int columns = 10;
+    const int rows = 7;
+    const int columns = 30;
     int a2DArray[rows][columns];
 
     std::random_device rseed;
